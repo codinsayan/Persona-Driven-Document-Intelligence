@@ -1,0 +1,92 @@
+[
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Portable Laundry Kit: A small laundry kit with detergent and a travel clothesline can",
+        "llm_score": 5,
+        "llm_justification": "This is relevant because the trip involves laundry."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Spring can be unpredictable, so be prepared for both sunny and rainy",
+        "llm_score": 1,
+        "llm_justification": "LLM failed to produce a valid JSON output."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Plan your wine tour route in advance and consider hiring a driver or",
+        "llm_score": 5,
+        "llm_justification": "This section contains additional tips on planning the wine tour route for a group of 10 college friends."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Make a Packing List: Create a list to ensure nothing is forgotten. Cross off items as you",
+        "llm_score": 5,
+        "llm_justification": "This section is relevant because it provides information on packing for a trip of four days with ten college friends."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Books and Entertainment: A book, e-reader, or tablet for entertainment during",
+        "llm_score": 1,
+        "llm_justification": "LLM failed to produce a valid JSON output."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Use a money belt or hidden pouch to keep valuables safe. Consider",
+        "llm_score": 1,
+        "llm_justification": "LLM failed to produce a valid JSON output."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a map",
+        "llm_score": 9,
+        "llm_justification": "This is relevant because the trip includes mosquito repellent."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Autumn is a great time to visit vineyards and enjoy the harvest",
+        "llm_score": 5,
+        "llm_justification": "This section contains additional tips for autumn traveling. The content is relevant to the task."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Bring a favorite stuffed animal or comfort item to help kids feel at",
+        "llm_score": 5,
+        "llm_justification": "This is relevant because the recipient has a favorite stuffed animal that they want to bring."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and",
+        "llm_score": 1,
+        "llm_justification": "LLM failed to produce a valid JSON output."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Winter is mild compared to other regions, but it's still important to",
+        "llm_score": 1,
+        "llm_justification": "LLM failed to produce a valid JSON output."
+    },
+    {
+        "document": "South of France - Cities.pdf",
+        "section_title": "Transportation : The region is well-connected by an extensive network of trains,",
+        "llm_score": 9,
+        "llm_justification": "This section contains information about transportation, which is relevant to the task."
+    },
+    {
+        "document": "South of France - Cities.pdf",
+        "section_title": "Parc Phoenix : Discover the botanical wonders at Parc Phoenix, a beautiful garden and",
+        "llm_score": 1,
+        "llm_justification": "LLM failed to produce a valid JSON output."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: Download maps and travel guides to your devices for offline use.",
+        "llm_score": 5,
+        "llm_justification": "This section contains additional tips on downloading maps and travel guides, which are relevant to the task."
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "section_title": "Additional Tips: The South of France can get very hot in the summer, so stay hydrated",
+        "llm_score": 1,
+        "llm_justification": "LLM failed to produce a valid JSON output."
+    }
+]
