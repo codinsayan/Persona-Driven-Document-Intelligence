@@ -9,12 +9,12 @@ The entire solution is containerized for easy and consistent execution.
 ### **1\. Clone Repository**
 Clone this Repository, by running the following command:
 ```Bash  
-git clone https://github.com/ashish-um/adobe-1b-2025
+git clone https://github.com/codinsayan/Persona-Driven-Document-Intelligence
 ```
 
 Navigate to the root directory
 ```Bash  
-cd adobe-1b-2025
+cd Hybrid-Machine-Learning-Solution-for-PDF-Structure-Extraction
 ```
 
 ### **2\. Build the Docker Image**
