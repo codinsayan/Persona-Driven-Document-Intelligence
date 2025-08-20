@@ -14,7 +14,7 @@ git clone https://github.com/codinsayan/Persona-Driven-Document-Intelligence
 
 Navigate to the root directory
 ```Bash  
-cd Hybrid-Machine-Learning-Solution-for-PDF-Structure-Extraction
+cd Persona-Driven-Document-Intelligence
 ```
 
 ### **2\. Build the Docker Image**
